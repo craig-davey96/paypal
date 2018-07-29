@@ -10,7 +10,7 @@
 		private $_cmd = "_cart";
 
 		// BUSINESS
-		private $_business = "craig96-facilitator@talktalk.net";
+		private $_business = "";
 
 		// UPLOAD
 		private $_upload = 1;
